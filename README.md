@@ -6,7 +6,7 @@ This is a Working code of Foundation 5 using Marketing Theme with Slick Slider, 
 Source codes from: https://github.com/kenwheeler/slick/
 and: https://github.com/zurb/foundation
 
-The original Slider in Foundation 5 project was Orbit, but now it's deprecated, the following is taken from the original site:
+The original Slider in Foundation 5 project was Orbit, but now it's deprecated, the following was taken from the original site:
 DEPRECATION NOTICE:
 Orbit has been deprecated, meaning that it is no longer supported. There's no need to worry though as we decided to leave it in Foundation if you choose to continue using it. We explain it here.
 There are other great options if you need an image slider. A lot of them have features based on Orbit and may have added one of two more features.
